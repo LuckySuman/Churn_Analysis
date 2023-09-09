@@ -12,6 +12,7 @@ Missing value treatment: Data cleaning is done in order to analyze the data prop
 
 Univariant & Bivariant Analysis: From this data set, it is clear that 26.5% of total customers were churned. So, all the features with respect to churn rate were analyzed to get some insights to find who are high churners.
 
-![image](https://github.com/LuckySuman/Churn_Analysis/assets/124083128/bfb60edb-24b6-4e4e-8696-84e2a9ddf618)
+![image](https://github.com/LuckySuman/Churn_Analysis/assets/124083128/9a1abdd1-8cfa-4503-9b20-96cc145699d3)
+
 
 
